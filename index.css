@@ -137,21 +137,7 @@ li a {
     cursor: pointer;
 }
 
-footer {
-    position: absolute;
-    left: 50%;
-    bottom: 20px;
-    transform: translateX(-50%);
-    color: #666;
-    font-size: 14px;
-    text-align: center;
-}
 
-footer a {
-    color: #666;
-    text-decoration: none;
-    color: #999;
-}
 
 @media screen and (max-device-width: 620px) {
     section {
